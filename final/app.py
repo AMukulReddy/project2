@@ -105,4 +105,5 @@ def query_submit():
     my_connection.commit()
     return 'We will reach out to you soon'
 
+#nikhil made a change
 app.run()
